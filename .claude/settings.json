@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/harreshbaptist/**)",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"education tutoring academy premium modern light\" --design-system -p \"Gappo Academy\")",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"landing page hero testimonial education\" --domain landing -n 3)",
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"animation scroll parallax premium\" --domain ux -n 3)"
+    ]
+  }
+}
